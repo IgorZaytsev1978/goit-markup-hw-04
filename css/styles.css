@@ -145,7 +145,7 @@ body {
   background-color: #2e2f42;
 }
 .logo-footer-left {
-  font-family: "Raleway, sans-serif";
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -155,7 +155,7 @@ body {
   color: #4d5ae5;
 }
 .logo-footer-right {
-  font-family: "Raleway, sans-serif";
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
