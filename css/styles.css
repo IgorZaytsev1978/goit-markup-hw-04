@@ -78,7 +78,7 @@ body {
 .button-first:focus {
   background-color: #404bbf;
 }
-.h2-list1 {
+.h-two-list-one {
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
@@ -102,8 +102,11 @@ body {
   letter-spacing: 0.02em;
 }
 
+.section-our-team {
+background-color: #F4F4FD;
+}
 
-.h3-our-team {
+.h-three-our-team {
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
