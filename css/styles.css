@@ -55,12 +55,13 @@ body {
   background-color: #2e2f42;
 }
 
-h1 {
+.section-first-h1 {
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align:center;
   color: #fff;
 }
 .button-first {
@@ -71,6 +72,11 @@ h1 {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+  cursor: pointer;
+}
+.button-first:hover, 
+.button-first:focus {
+  background-color: #404BBF;
 }
 .h2-list1 {
   font-size: 36px;
