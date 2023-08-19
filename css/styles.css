@@ -86,6 +86,23 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.h3-about-us {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.p-about-us {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+
 .h3-our-team {
   font-size: 20px;
   font-style: normal;
