@@ -1,5 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
 .logo-header-left {
   font-family: "Raleway";
@@ -35,7 +37,6 @@ body {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 .section-first {
   background-color: #2e2f42;
@@ -80,7 +81,6 @@ h1 {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 .h3-our-portfolio {
   font-size: 20px;
@@ -96,7 +96,6 @@ h1 {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 .footer-first-list {
   background-color: #2e2f42;
