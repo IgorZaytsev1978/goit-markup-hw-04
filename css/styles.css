@@ -104,7 +104,7 @@ header .container {
 }
 .adress-header-ul {
   display: flex;
-  column-gap: 40px;
+
 }
 .adress-item {
   font-size: 16px;
