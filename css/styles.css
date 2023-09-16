@@ -120,7 +120,8 @@ header .container {
 }
 .section-first {
   
-  background-color: aqua;
+  background-color: rgba(46, 47, 66, 0.70);
+  background-image: url(../images/people-office.jpg);
   padding-top: 188px;
   padding-bottom: 188px;
   text-align: center;
