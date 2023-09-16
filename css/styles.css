@@ -178,7 +178,7 @@ header .container {
 }
 .section-about-us-ul {
   display: flex;
-  column-gap: 24px;
+  gap: 24px;
 }
 .section-about-us-ul-li {
   width: calc((100% - 72px) / 4);
@@ -202,7 +202,7 @@ header .container {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  margin-bottom: 4px;
+  margin-bottom: 8px;
 }
 .p-about-us {
   font-size: 16px;
