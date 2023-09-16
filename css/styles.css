@@ -136,7 +136,7 @@ header .container {
   line-height: 1.07;
   letter-spacing: 0.02em;
   color: #fff;
-  width: 496px;
+  max-width: 496px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 48px;
@@ -151,6 +151,10 @@ header .container {
   background-color: #4d5ae5;
   cursor: pointer;
   border-radius: 4px;
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
 }
 .button-first:hover,
 .button-first:focus {
