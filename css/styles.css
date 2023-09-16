@@ -256,7 +256,7 @@ header .container {
   row-gap: 48px;
   padding-bottom: 32px;
 }
-.our-portfolio-ul-li {
+.our-portfolio-ul>li {
   width: calc((100% - 48px) / 3);
 }
 
