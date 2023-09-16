@@ -120,7 +120,7 @@ header .container {
 }
 .section-first {
   
-  background-image: url(../images/people-office.jpg);
+  background-color: aqua;
   padding-top: 188px;
   padding-bottom: 188px;
   text-align: center;
