@@ -70,9 +70,16 @@ header .container {
 .navigation-ul li {
   margin-right: 40px;
 }
-.navigation-l li:last-child {
+.navigation-ul li:last-child {
   margin-right: 0;
 }
+.nav-item {
+  margin-right: 40px;
+}
+.nav-item :last-child {
+  margin-right: 0;
+}
+
 .nav-item-a:hover,
 .nav-item-a:focus {
   color: #404bbf;
@@ -88,7 +95,10 @@ header .container {
   padding-top: 24px;
   padding-bottom: 24px;
   display: block;
+
+
 }
+
 .adress-header {
   font-style: normal;
 }
