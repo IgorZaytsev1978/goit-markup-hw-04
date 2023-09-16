@@ -119,14 +119,15 @@ header .container {
   color: #404bbf;
 }
 .section-first {
-  
+  max-width: 1440px;
   background-color: rgba(46, 47, 66, 0.70);
   background-image: url(../images/people-office.jpg);
   padding-top: 188px;
   padding-bottom: 188px;
   text-align: center;
   background-repeat: no-repeat;
-  max-width: 1440px;
+  background-position: 50% 50%;
+  
 }
 
 .section-first-h-one {
