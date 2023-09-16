@@ -76,7 +76,7 @@ header .container {
 .nav-item {
   margin-right: 40px;
 }
-.nav-item :last-child {
+.nav-item:last-child {
   margin-right: 0;
 }
 
