@@ -148,10 +148,13 @@ header .container {
   background-color: #4d5ae5;
   cursor: pointer;
   border-radius: 4px;
+  
   display: block;
   min-width: 169px;
   height: 56px;
   border: none;
+  margin: 0 auto;
+  
 }
 .button-first:hover,
 .button-first:focus {
