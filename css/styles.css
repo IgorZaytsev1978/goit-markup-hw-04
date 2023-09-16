@@ -126,6 +126,7 @@ header .container {
   padding-bottom: 188px;
   text-align: center;
   background-repeat: no-repeat;
+  max-width: 1440px;
 }
 
 .section-first-h-one {
