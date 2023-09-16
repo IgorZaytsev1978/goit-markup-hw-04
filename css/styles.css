@@ -73,13 +73,15 @@ header .container {
 .navigation-ul li:last-child {
   margin-right: 0;
 }
-.nav-item {
+.adress-header-ul {
+  display: block;
+}
+.adress-header-ul li {
   margin-right: 40px;
 }
-.nav-item:last-child {
+.adress-header-ul li:last-child {
   margin-right: 0;
 }
-
 .nav-item-a:hover,
 .nav-item-a:focus {
   color: #404bbf;
