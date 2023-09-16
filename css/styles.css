@@ -239,13 +239,17 @@ header .container {
 
 }
 .our-portfolio-ul-li {
-    width: calc((100%-72px)/3)
-  
+  width: calc((100%-72px)/3);
+}  
+.our-portfolio-ul-li > div {
+  border: 1px solid #E7E9FC;
+
+}
   
   
   
  
-}
+
 .h-three-our-portfolio {
   font-size: 20px;
   font-style: normal;
